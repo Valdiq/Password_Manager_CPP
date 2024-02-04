@@ -1,0 +1,3 @@
+S:/Study/Programming/C++/S25195_PasswordManager/cmake-build-debug/CMakeFiles/S25195_PasswordManager.dir
+S:/Study/Programming/C++/S25195_PasswordManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+S:/Study/Programming/C++/S25195_PasswordManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
